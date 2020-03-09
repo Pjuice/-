@@ -128,9 +128,7 @@
 ![JayChou](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583774684039&di=7f61790a5a100aff5f7dc4789c4dbdbe&imgtype=0&src=http%3A%2F%2Fdingyue.nosdn.127.net%2F%3DkRx2zL89xdudUFs3Io16PUSRXuS3aNY2N8iRv6dZz01p1520858048237compressflag.jpg "周杰伦")
 ```
 
-效果如下：
 
-![JayChou](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583774684039&di=7f61790a5a100aff5f7dc4789c4dbdbe&imgtype=0&src=http%3A%2F%2Fdingyue.nosdn.127.net%2F%3DkRx2zL89xdudUFs3Io16PUSRXuS3aNY2N8iRv6dZz01p1520858048237compressflag.jpg "周杰伦")
 
 **上传本地图片直接点击导航栏的图片标志，选择图片即可**
 
@@ -298,16 +296,5 @@ cond(no)->op
 &```
 ```
 
-效果如下：
 
-```flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&```
-```
 
